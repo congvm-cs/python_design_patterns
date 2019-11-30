@@ -26,7 +26,7 @@ Design Patterns are overthought needed to be implemented in every projects. Cons
 ## Type of design patterns.
 
 - [ x ] Creational
-- [   ] Structural
+- [ - ] Structural
 - [   ] Behavioral
 
 ## References
