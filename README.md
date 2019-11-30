@@ -7,7 +7,10 @@ Design Patterns are a tools to help us solving with a structural, extendable and
 Design Patterns have been depicted in Wikipedia:
 
 ```
-In software engineering, a software design pattern is a general __reusable___ solution to a commonly occuring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations.
+In software engineering, a software design pattern is a general __reusable___ solution to a commonly 
+occuring problem within a given context in software design. It is not a finished design that can be transformed 
+directly into source or machine code. It is a description or template for how to solve a problem that can be 
+used in many different situations.
 ```
 
 ### Notes
