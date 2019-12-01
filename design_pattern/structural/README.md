@@ -19,6 +19,6 @@ There are 7 types of structural patterns:
 - [ x ] Composite
 - [ x ] Decorator
 - [ x ] Facade
-- [   ] Flyweight
-- [   ] Proxy
+- [ x ] Flyweight
+- [ x ] Proxy
 
